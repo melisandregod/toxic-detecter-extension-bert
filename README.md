@@ -20,6 +20,7 @@ A simple step-by-step guide for installing and running both the **FastAPI backen
 4. Install required libraries:
    ```bash
    pip install fastapi uvicorn transformers torch
+   pip install google-generativeai fastapi uvicorn transformers torch
    ```
 
 ---
