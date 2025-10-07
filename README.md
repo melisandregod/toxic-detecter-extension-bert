@@ -21,12 +21,7 @@ A simple step-by-step guide for installing and running both the **FastAPI backen
    ```bash
    pip install fastapi uvicorn transformers torch
    pip install google-generativeai fastapi uvicorn transformers torch
-<<<<<<< HEAD
-=======
-
->>>>>>> 1d09d4d (Update README and content.js to enhance installation instructions and improve toxicity bubble display)
    ```
-
 ---
 
 ### ▶️ Run the API
