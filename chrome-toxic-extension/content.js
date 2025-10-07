@@ -2,7 +2,7 @@ console.log("✅ Realtime Toxicity Checker Loaded");
 
 const API_URL = "http://127.0.0.1:8000/predict";
 const THRESHOLD = 0.7; // ความมั่นใจที่ถือว่า toxic
-const DELAY = 1000; // ดีเลย์หลังหยุดพิมพ์
+const DELAY = 2000; // ดีเลย์หลังหยุดพิมพ์
 let typingTimers = new WeakMap(); // เก็บ timer ของแต่ละช่อง
 
 // ฟังก์ชันหลัก: ตรวจข้อความในช่อง input/textarea
