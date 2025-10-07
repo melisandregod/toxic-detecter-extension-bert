@@ -40,7 +40,7 @@ model.to(device)
 # ------------------------
 # (1) ไปที่ https://aistudio.google.com/app/apikey
 # (2) สร้าง API key แล้ววางลงใน .env หรือใส่ตรงนี้ (ชั่วคราว)
-genai.configure(api_key="AIzaSyBKGJg-dODWqcAtSfDXVbZc8TIs_ACrk8w")
+genai.configure(api_key="")
 
 # ------------------------
 # 🔹 Input Model
